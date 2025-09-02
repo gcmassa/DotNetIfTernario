@@ -1,0 +1,14 @@
+C:\Users\Giancarlo\DotNetIfTernario\bin\Debug\net9.0\DotNetIfTernario.exe
+C:\Users\Giancarlo\DotNetIfTernario\bin\Debug\net9.0\DotNetIfTernario.deps.json
+C:\Users\Giancarlo\DotNetIfTernario\bin\Debug\net9.0\DotNetIfTernario.runtimeconfig.json
+C:\Users\Giancarlo\DotNetIfTernario\bin\Debug\net9.0\DotNetIfTernario.dll
+C:\Users\Giancarlo\DotNetIfTernario\bin\Debug\net9.0\DotNetIfTernario.pdb
+C:\Users\Giancarlo\DotNetIfTernario\obj\Debug\net9.0\DotNetIfTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giancarlo\DotNetIfTernario\obj\Debug\net9.0\DotNetIfTernario.AssemblyInfoInputs.cache
+C:\Users\Giancarlo\DotNetIfTernario\obj\Debug\net9.0\DotNetIfTernario.AssemblyInfo.cs
+C:\Users\Giancarlo\DotNetIfTernario\obj\Debug\net9.0\DotNetIfTernario.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\DotNetIfTernario\obj\Debug\net9.0\DotNetIfTernario.dll
+C:\Users\Giancarlo\DotNetIfTernario\obj\Debug\net9.0\refint\DotNetIfTernario.dll
+C:\Users\Giancarlo\DotNetIfTernario\obj\Debug\net9.0\DotNetIfTernario.pdb
+C:\Users\Giancarlo\DotNetIfTernario\obj\Debug\net9.0\DotNetIfTernario.genruntimeconfig.cache
+C:\Users\Giancarlo\DotNetIfTernario\obj\Debug\net9.0\ref\DotNetIfTernario.dll

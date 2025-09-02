@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DotNetIfTernario/1.0.0": {
+        "runtime": {
+          "DotNetIfTernario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetIfTernario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
