@@ -8,7 +8,9 @@ bool ehPar = false;
 
 ehPar = numero % 2 == 0;
 
-Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "ímpar"));
+string mensagem = "O número {numero} é " + (ehPar ? "par" : "ímpar");
+
+Console.WriteLine(mensagem);
 
 /*
 if (numero % 2 == 0)

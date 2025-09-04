@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I45Nhk8nJTo=",
+  "dgSpecHash": "aekyP99hHZo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Giancarlo\\DotNetIfTernario\\DotNetIfTernario.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Giancarlo\\programacao\\DotNetIfTernario\\DotNetIfTernario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giancarlo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
